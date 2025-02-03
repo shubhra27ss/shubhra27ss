@@ -54,3 +54,4 @@ A passionate Computer Science Student & Data Enthusiast
 - Honorable Mention at KIIT MUN, 2024
 - Top 500 in ICAI Commerce Wizard, 2019
 - Selected for Schneider Electric Global Student Experience, 2024
+make my profile according to the provided webpage
