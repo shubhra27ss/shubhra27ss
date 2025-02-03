@@ -18,6 +18,15 @@
 <h3 align="center">🌐 Connect with Me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/shubhra-srivastava27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shubhra27.ss@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/shubhra27.ss" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Programming Languages -->
