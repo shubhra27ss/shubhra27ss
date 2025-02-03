@@ -64,11 +64,6 @@ A passionate Computer Science Student & Data Enthusiast
 - Problem Solving
 - Market Analysis
 
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1738559475/user_uploads/XyYDHPpozCWEmma/image.jpg
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51348067/cf694de6-e6b4-4ae9-b04a-92fe41ea952f/Shubhra-srivastava-resume-2025.pdf
-[3] https://pplx-res.cloudinary.com/image/upload/v1738560058/user_uploads/NwocvGAbJhnnBCm/image.jpg
-
 ### 📁 Pinned Projects
 
 - **[Autism Prediction](#)**  
