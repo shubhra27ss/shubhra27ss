@@ -16,19 +16,58 @@ A passionate Computer Science Student & Data Enthusiast
 ---
 
 ### Connect with me:
+## Technical Skills
 
-**Languages and Tools:**
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+### Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
----
+### Libraries & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+
+</div>
+
+## Core Competencies
+
+**Data Science & ML**
+- Machine Learning: Supervised & Unsupervised Learning
+- Model Evaluation & Feature Engineering
+- Data Mining & Preprocessing
+- Statistical Analysis & Visualization
+
+**Development & Tools**
+- Database Management: MySQL, DBMS
+- Version Control: GitHub
+- IDEs: VS Code, Jupyter Notebook
+- Methodologies: Agile (Scrum, Kanban)
+
+**Academic Foundations**
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Database Design
+
+**Professional Skills**
+- Client Relationship Management
+- Team Leadership
+- Strategic Planning
+- Problem Solving
+- Market Analysis
+
+Citations:
+[1] https://pplx-res.cloudinary.com/image/upload/v1738559475/user_uploads/XyYDHPpozCWEmma/image.jpg
+[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51348067/cf694de6-e6b4-4ae9-b04a-92fe41ea952f/Shubhra-srivastava-resume-2025.pdf
+[3] https://pplx-res.cloudinary.com/image/upload/v1738560058/user_uploads/NwocvGAbJhnnBCm/image.jpg
 
 ### 📁 Pinned Projects
 
