@@ -1,91 +1,69 @@
-## Hi 👋, I'm Shubhra Srivastava
+<h1 align="center">Hi 👋, I'm Shubhra Srivastava</h1>
+<h3 align="center">A Passionate Data Science & Web Development Enthusiast</h3>
 
-A passionate Computer Science Student & Data Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhra27ss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-### 🚀 I'm currently working on:
-- Data Analysis Projects
-- Advanced Machine Learning Models
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" style="background-color: #000;"/>
+</p>
 
-### 🌐 All of my projects are available at:
-[My Portfolio](https://shubhra27ssportfolio.netlify.app/)
+- 🔭 I’m currently working on **Data Science & Machine Learning Projects**
 
-### 📧 How to reach me:
-- [Email](mailto:shubhra27.ss@gmail.com)
-- [LinkedIn](https://linkedin.com/in/shubhra-srivastava-a4a8ba247)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shubhra27ssportfolio.netlify.app/)
 
----
+- 📫 Reach me at [shubhra27.ss@gmail.com](mailto:shubhra27.ss@gmail.com)
 
-### Connect with me:
-## Technical Skills
+<h3 align="center">🌐 Connect with Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhra-srivastava27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shubhra27.ss@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<div align="center">
+<h3 align="center">💻 Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Seaborn_logo.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhra27ss&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhra27ss&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhra27ss&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
 
-### Libraries & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhra27ss&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
-</div>
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
 
-## Core Competencies
-
-**Data Science & ML**
-- Machine Learning: Supervised & Unsupervised Learning
-- Model Evaluation & Feature Engineering
-- Data Mining & Preprocessing
-- Statistical Analysis & Visualization
-
-**Development & Tools**
-- Database Management: MySQL, DBMS
-- Version Control: GitHub
-- IDEs: VS Code, Jupyter Notebook
-- Methodologies: Agile (Scrum, Kanban)
-
-**Academic Foundations**
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Database Design
-
-**Professional Skills**
-- Client Relationship Management
-- Team Leadership
-- Strategic Planning
-- Problem Solving
-- Market Analysis
-
-### 📁 Pinned Projects
-
-- **[Autism Prediction](#)**  
-  Built a machine learning model to predict autism with 82% accuracy using Random Forest, Decision Tree, and XGBoost.
-
-- **[Sugarcane Production Data Analysis](#)**  
-  Analyzed 10+ years of data, created interactive visualizations, and derived actionable insights.
-
-- **[Diabetes Prediction](#)**  
-  Developed a classification model achieving 85% accuracy using Logistic Regression and KNN.
-
-- **[Black Friday Sales Data Analysis](#)**  
-  Analyzed over 500,000 transactions to uncover purchasing patterns and trends.
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shubhra27ss&icon=2&color=4" alt="Visitor Count"/>
+  </a>
+</p>
 
 ---
-
-### 🎓 Education
-- **KIIT University Bhubaneswar, Odisha**  
-  B.Tech in Computer Science, CGPA: 8.24 (2022-2026)
-
-### 🌟 Achievements
-- Honorable Mention at KIIT MUN, 2024
-- Top 500 in ICAI Commerce Wizard, 2019
-- Selected for Schneider Electric Global Student Experience, 2024
-make my profile according to the provided webpage
+<p align="center">✨ Crafted with Smartness by Shubhra Srivastava 😎✨</p>
