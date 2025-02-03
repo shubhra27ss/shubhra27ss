@@ -43,11 +43,25 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhra27ss&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhra27ss&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhra27ss&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+
+<div align="center">
+  <a href="https://github.com/shubhra27ss">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhra27ss&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/shubhra27ss">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhra27ss&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/shubhra27ss">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhra27ss&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  </a>
+</div>
+
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
@@ -59,11 +73,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shubhra27ss&icon=2&color=4" alt="Visitor Count"/>
-  </a>
-</p>
 
 ---
-<p align="center">✨ Crafted with Smartness by Shubhra Srivastava 😎✨</p>
+<p align="center">✨ Crafted with ❤ Smartness by Shubhra Srivastava ✨</p>
